@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kasungaherath@gmail.com**
 
-### Languages and Tools:
+### 🛠️Tech Tools:
 <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
@@ -19,11 +19,11 @@
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 <br/><br/>
 
-### My GitHub Stats:
+### 📊My GitHub Stats:
 ![kasungaherath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasungaherath&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=kasungaherath&theme=dark&hide_border=false)
 
-### Connect with me:
+### 📩Connect with me:
 <a href="https://www.instagram.com/">
   <img align="left" alt="Instagram" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>
 </a>
