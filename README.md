@@ -4,7 +4,7 @@
 <h2 align="center">Crafting scalable software with clean, maintainable code</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasungaherath&label=Profile%20views&color=0e75b6&style=flat" alt="kasungaherath" /> </p>
 
-- 🎓 Computing & Information Systems undergraduate at **Sabaragamuwa University of Sri Lanka.**
+- 🎓 Undergraduate in BSc (Hons) Computing & Information Systems at **Sabaragamuwa University of Sri Lanka.**
 
 - 🌱 Currently learning **Machine Learning, Cloud Computing & Web Development.**
 
