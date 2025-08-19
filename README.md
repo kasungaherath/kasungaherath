@@ -20,11 +20,14 @@
 <br/><br/>
 
 ### My GitHub Stats:
-![kasungaherath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasungaherath&show_icons=true)
+![kasungaherath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasungaherath&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=kasungaherath&theme=dark&hide_border=false)
 
 ### Connect with me:
 <a href="https://www.instagram.com/">
   <img align="left" alt="Instagram" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>
 </a>
-<br/><br/>
+<a href="https://www.facebook.com/kasunga.herath">
+  <img align="left" alt="Facebook" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/>
+</a>
 
