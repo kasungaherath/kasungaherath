@@ -8,7 +8,7 @@
 
 - 🌱 Currently learning **Machine Learning, Cloud Computing & Web Development.**
 
-- 📫 Reach me **kasungaherath@gmail.com**
+- 📫 Reach me at **kasungaherath@gmail.com**
 
 ### 🛠️Tech Tools:
 <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
