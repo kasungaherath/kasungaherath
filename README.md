@@ -10,15 +10,6 @@
 
 - 📫 Reach me at **kasungaherath@gmail.com**
 
-### 🛠️Tech Tools:
-<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
-<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-<br/><br/>
-
 ### 📊My GitHub Stats:
 ![kasungaherath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasungaherath&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=kasungaherath&theme=dark&hide_border=false)
