@@ -11,7 +11,7 @@
 - 📫 Reach me at **kasungaherath@gmail.com**
 
 ### 📊My GitHub Stats:
-![kasungaherath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasungaherath&show_icons=true&theme=dark)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=kasungaherath&theme=dark&hide_border=false)
 
 ### 📩Connect with me:
