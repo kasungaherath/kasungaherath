@@ -6,7 +6,7 @@
 
 - 🎓 Undergraduate in BSc (Hons) Computing & Information Systems at **Sabaragamuwa University of Sri Lanka.**
 
-- 🌱 Currentllearning **Machine Learning, Cloud Computing & Web Development.**
+- 🌱 Currently learning **Machine Learning, Cloud Computing & Web Development.**
 
 - 📫 Reach me at **kasungaherath@gmail.com**
 
