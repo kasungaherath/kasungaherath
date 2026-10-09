@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasungaherath&label=Profile%20views&color=0e75b6&style=flat" alt="kasungaherath"  </p>
 
 - 🎓 Undergraduate in BSc (Hons) Computing & Information Systems at **Sabaragamuwa University of Sri Lanka.**
-jjj
+  
 - 🌱 Currently learning **Machine Learning, Cloud Computing & Web Development.**
 
 - 📫 Reach me at **kasungaherath@gmail.com**
